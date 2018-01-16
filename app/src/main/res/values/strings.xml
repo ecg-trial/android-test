@@ -27,4 +27,6 @@
     </plurals>
 
     <string name="dummyString" translatable="false"></string>
+
+    <string name="one_more">1</string>
 </resources>
