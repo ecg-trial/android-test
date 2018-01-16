@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Transtations Trial</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="searchHint">Zoek op trefwoord</string>
+    <string name="placeholder">…</string>
+    <string name="progressDialogLoadingText">Bezig met laden…</string>
+    <string name="cancel">Annuleren</string>
+    <string name="cancelButtonText">Annuleer</string>
+    <string name="ok">OK</string>
+    <string name="genericOk">Ok</string>
+    <string name="or">of</string>
+    <string name="store">Opslaan</string>
+    <string name="send">Verzend</string>
+    <string name="back">Terug</string>
+    <string name="rateNow">Nu</string>
+    <string name="noThankYou">Nee, bedankt</string>
+    <string name="rateLater">Later</string>
+    <string name="rateTitle">Beoordeel de Marktplaats app </string>
+    <string name="titleChangelog">Nieuw in deze versie</string>
+    <string name="changelogClose">Sluiten</string>
+
+    <!-- SYI -->
+    <plurals name="syiChooseImagesText">
+        <item quantity="one">Kies foto</item>
+        <item quantity="other">Kies foto\'s</item>
+    </plurals>
+
+    <string name="dummyString" translatable="false"></string>
+</resources>
