@@ -28,5 +28,6 @@
 
     <string name="dummyString" translatable="false"></string>
 
-    <string name="one_more">1</string>
+    <string name="one_more_1">1</string>
+    <string name="one_more_2">2</string>
 </resources>
