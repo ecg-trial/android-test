@@ -1,10 +1,14 @@
 phraseapp:
-  access_token: "31ca5554029595ed2584f5997529d6eea21cad4b"
-  project_id: "70834c73ff970daa34c3a7df5d2f81f4"
-  file_format: "xml"
+  access_token: 474b2b07fbdcdf7fd11ae54c64fbcfccb83c8d506b8a5371f32dfc31784adc6d
+  project_id: 70834c73ff970daa34c3a7df5d2f81f4
   push:
     sources:
-    - file: "./res/values/strings.xml"
+    - file: ./app/src/main/res/values/strings.xml
+      params:
+        file_format: xml
+        locale_id: nl_NL
   pull:
     targets:
-    - file: "./res/values-fr/strings.xml"
+    - file: ./app/src/main/res/values-<locale_code>/strings.xml
+      params:
+        file_format: xml
