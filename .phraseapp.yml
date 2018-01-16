@@ -1,0 +1,10 @@
+phraseapp:
+  access_token: "31ca5554029595ed2584f5997529d6eea21cad4b"
+  project_id: "70834c73ff970daa34c3a7df5d2f81f4"
+  file_format: "xml"
+  push:
+    sources:
+    - file: "./res/values/strings.xml"
+  pull:
+    targets:
+    - file: "./res/values-fr/strings.xml"
